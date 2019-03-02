@@ -40,3 +40,6 @@ All of the waste fuel from 45 years of the Swiss nuclear program can fit, in can
 where like all spent nuclear fuel, it has never hurt a fly.
 As a nuclear-trained engineer no longer working in the industry, I can attest that the majority of nuclear plant construction costs (and operating costs) are regulatory-driven. None of these regulations improve safety, but have been imposed through the years as a sacrifice to the anti-nuclear activists. Smarter regulation (i.e., constructive not punitive) would dramatically bring down the cost of building and operating the next generation nuclear plants.
 As a side note, nuclear waste is a problem in the US but not France or Switzerland because Jimmy Carter banned the reprocessing of spent fuel. This increases the volume of waste by orders of magnitude
+
+Desserts are not good locations for solar farms. 
+Too much dust, which has to be cleaned from the panels on a regular basis, which requires lots of water and energy.
